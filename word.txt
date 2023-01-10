@@ -15,3 +15,141 @@ dependent : 의존하는
 dependency : 의존
 firmly : 확실히
 be reluctant to : ~하기를 꺼리다
+
+주격보어를 원하는 동사
+appear : ~인 듯하다
+be : ~이다
+become : ~이 되다
+feel : 느끼다
+look : ~처럼 보이다
+remain : ~인 채로 (남아) 있다
+stay : (어떤 상태에) 머무르다
+seem : ~인 듯하다
+sound : ~하게 들리다
+turn : ~이 되다
+taste : ~한 맛이 나다
+
+목적격 보어를 원하는 동사
+-형용사-
+make / keep / find / consider / deem(여기다)
+-to 부정사-
+ask / request / invite / encourage
+-동.원-(사역동사)
+make / have / let
+-과거분사-
+have
+
+::명령문은 무조건 동사 원형이 온다
+->Unit 1의 ETS 실전문제에서 틀린 문제 모두(13,17) 명령문 동사원형 문제였다.
+  명령문 동사원형과 available이 형용사인 것을 체크할 것.
+
+unit 2 : Noun
+arrival이 명사구나
+manual : 설명서
+instruction : 설명(지시)
+
+'관사/소유격 + 형용사 + 명사' 덩어리를 기억할 것. 관사나 소유격 뒤에 명사를 수식하는 형용사가 올 수 있음.
+
+(중요) 복학명사
+두 개의 명사가 결합된 복합명사는 한 단어로 취급. 
+앞 명사는 주로 뒤 명사의 종류나 목적을 나타내는 수식어 역할.
+뒤 명사는 복합명사 덩어리의 가산/불가산 또는 단수/복수를 표현 -> 올ㅋ
+
+-복합명사 적중 리스트-
+account information : 계좌 정보
+office supplies : 사무용품
+building modifications : 건축 변경사항
+product availability : 상품 입수 가능성 
+workplace safety : 작업장 안전
+job description : 직무 소개
+job resposibilities : 직무, 책무
+staff productivity : 직원 생산성
+employee performance : 직원 성과
+awards ceremony : 시상식
+customs clearance : 세관 통관
+earnings figures : 수익 금액
+travel arrangements / expenses : 여행 준비/경비
+investment decision : 투자(의사) 결정
+consumer preference(s) : 소비자 기호
+safety standards / regulations / guidelines / precautions : 안전 기준/규정/지침/예방책
+
+beverage : 음료
+
+가산명사 : 셀 수 있는 명사 & 눈에 보이지 않는 개념
+가산명사의 단수형은 앞에 관서, 소유격, 지시/수량 형용사 등을 반드시 동반하며, 절대 단독으로 쓰지 않는다.
+가산명사의  복수형은 앞에 한정사가 올 수도 있고 단독으로 사용할 수도 있다.
+
+불가산명사는 앞에 a(n) 또는 뒤에 -(e)s를 붙일 수 없다. 불가산 명사는 단수 취급한다.
+-불가산명사 적중 리스트-
+information : 정보
+machinery : 기계류
+furniture : 가구
+negligence : 부주의
+access : 접근, 이용
+merchandise : 상품
+consent : 동의, 허락
+permission : 허락
+research : 연구
+advice : 조언
+luggage / baggage : 수하물
+employment : 고용
+equipment : 장비
+clothing : 의류
+manufacture : 제조, 생산
+
+빈칸 앞뒤로 전치가사 -> 명사가 들어가야함
+
+finance : 재무, 재정
+pass out : ~을 나눠주다
+
+-품사가 혼동되는 명사 적중 리스트-
+alternative : 대안, 대안의
+perspective : 관점
+estimate : 견적서, 견적내다
+permit : 허가증, 허가하다
+adhesive : 접착제, 들러붙는
+objective : 목적, 객관적인
+increase : 증가, 증가하다
+change : 변화, 변화하다
+initiative : 계획, 주도권
+original : 원본, 원래의
+decline : 감소, 감소하다
+delay : 지연, 지연시키다
+directive : 지시사항, 지시하는
+measure : 수단, 조치, 측정하다
+visit : 방문, 방문하다
+characterisitic : 특징. 특유의
+
+-주의해야 할 사람명사-
+executive : 중역, 경영의
+applicant : 지원자
+associate : 동료, 연관 짓다
+resident : 주민, 거주자
+representative : 대표, 직원, 대표하는
+delegate : 대표자, 파견하다
+graduate : 졸업생, 졸업하다
+authority : 권위, 권위자
+candidate : 지원자, 후보자
+critic : 비평가
+acquaintance : 지인
+attendant : 참석자, 승무원
+
+-동명사와 혼동되는 -ing형 명사-
+seating : 좌석 배치
+accounting : 회계
+openings : 공석, 개막식
+ticketing : 티켓 발급
+planning : 계획 수립, 계획
+findings : 발견한 사람
+processing : 처리
+pricing : 가격 책정
+writings : 저작물, 글
+funding : 재정 지원, 자금
+housing: 주택, 주택 공급
+
+flooring : 마루 (재료), 바닥
+temporary : 임시의, 임시직의
+certified : 자격증을 가진, 공인된
+attendant : 돌보는 사람, 간호인
+openness : 솔직함
+opener : 개시자, 여는 도구
